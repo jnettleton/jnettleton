@@ -1,7 +1,6 @@
-# dotnett
 # More about jnettleton (Jerry Nettleton)
 
-https://visitor-badge.glitch.me/badge?page_id=jnettleton.dotnett
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jnettleton.dotnett)
 
 I'm a Sr Consultant at [Avanade](https://www.avanade.com).
 
@@ -32,6 +31,13 @@ I'm a Sr Consultant at [Avanade](https://www.avanade.com).
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/arduino/arduino.png?raw=true"></code>
+
+## Certifications
+
+- Microsoft Certified: Azure IoT Developer Specialty, 2021
+- Microsoft Certified: Azure Fundamentals, 2021
+- AWS Certified Solutions Architect Associate, 2021
+- Microsoft Certified: Azure Developer Associate, 2019
 
 ## Azure Services
 
