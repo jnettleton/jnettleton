@@ -34,11 +34,12 @@ I'm a Sr Consultant at [Avanade](https://www.avanade.com).
 
 ## Certifications
 
-- Microsoft Certified: Azure IoT Developer Specialty, 2021
-- Microsoft Certified: Azure Fundamentals, 2021
-- AWS Certified Solutions Architect Associate, 2021
-- Microsoft Certified: Azure Developer Associate, 2019
+- Microsoft Certified: Azure IoT Developer Specialty
+- Microsoft Certified: Azure Fundamentals
+- AWS Certified Solutions Architect Associate
+- Microsoft Certified: Azure Developer Associate
 - Professional Scrum Master™ I (PSM I)
+- MCSD.NET, MCAD.NET
 
 ## Azure Services
 
