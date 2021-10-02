@@ -49,8 +49,4 @@ I'm a Sr Consultant at [Avanade](https://www.avanade.com).
 - [Azure SQL](https://azure.microsoft.com/en-us/services/azure-sql/)
 - [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/)
 
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=jnettleton&count_private=true&show_icons=true&include_all_commits=true&theme=gotham">
-    <img src="http://github-readme-stats.vercel.app/api?username=jnettleton&count_private=true&show_icons=true&include_all_commits=true&theme=gotham" />
-  </a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jnettleton&count_private=true&show_icons=true&include_all_commits=true&theme=gotham)
