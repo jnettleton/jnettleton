@@ -1,6 +1,6 @@
 # More about jnettleton (Jerry Nettleton)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jnettleton.dotnett)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jnettleton.jnettleton)
 
 I'm a Sr Consultant at [Avanade](https://www.avanade.com).
 
