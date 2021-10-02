@@ -38,6 +38,7 @@ I'm a Sr Consultant at [Avanade](https://www.avanade.com).
 - Microsoft Certified: Azure Fundamentals, 2021
 - AWS Certified Solutions Architect Associate, 2021
 - Microsoft Certified: Azure Developer Associate, 2019
+- Professional Scrum Master™ I (PSM I)
 
 ## Azure Services
 
