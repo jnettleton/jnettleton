@@ -1,16 +1,45 @@
-### Hi there 👋
+# dotnett
+# More about jnettleton (Jerry Nettleton)
 
-<!--
-**jnettleton/jnettleton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://visitor-badge.glitch.me/badge?page_id=jnettleton.dotnett
 
-Here are some ideas to get you started:
+I'm a Sr Consultant at [Avanade](https://www.avanade.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social Links
+
+- 🦅 [Twitter](https://twitter.com/dotnett)
+- 🖥 [GitHub](https://github.com/jnettleton)
+- 👔 [LinkedIn](https://linkedin.com/in/jnettleton)
+
+## Technology Preferences
+
+- 💻 Windows 10
+- Visual Studio for C# / .NET Core / C++
+- Visual Studio Code
+- .NET Core
+- Azure PaaS
+- Azure IoT
+- Network and Data Communications
+
+## Languages
+
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png?raw=true"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/arduino/arduino.png?raw=true"></code>
+
+## Azure Services
+
+- [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
+- [Azure Relay](https://docs.microsoft.com/en-us/azure/azure-relay/)
+- [Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/)
+- [Cosmos DB](https://azure.microsoft.com/en-us/services/cosmos-db/)
+- [Azure SQL](https://azure.microsoft.com/en-us/services/azure-sql/)
+- [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jnettleton&show_icons=true&theme=gotham)
