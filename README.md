@@ -2,8 +2,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jnettleton.jnettleton)
 
-I'm a Sr Consultant at [Avanade](https://www.avanade.com).
-
 ## Social Links
 
 - 🦅 [Twitter](https://twitter.com/dotnett)
