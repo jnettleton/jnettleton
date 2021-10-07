@@ -32,9 +32,9 @@
 
 ## Certifications
 
+- Microsoft Certified: Azure Developer Associate
 - Microsoft Certified: Azure IoT Developer Specialty
 - Microsoft Certified: Azure Fundamentals
-- Microsoft Certified: Azure Developer Associate
 - MCSD.NET, MCAD.NET
 - AWS Certified: Solutions Architect Associate
 - Professional Scrum Master™ I (PSM I)
