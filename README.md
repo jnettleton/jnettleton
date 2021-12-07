@@ -8,7 +8,7 @@
 - 🖥 [GitHub](https://github.com/jnettleton)
 - 👔 [LinkedIn](https://linkedin.com/in/jnettleton)
 
-## Technology Preferences
+## Technology Preferences / Interests
 
 - 💻 Windows 10
 - Visual Studio for C# / .NET Core / C++
@@ -16,6 +16,7 @@
 - .NET Core
 - Azure PaaS
 - Azure IoT
+- Azure Sphere
 - Network and Data Communications
 
 ## Languages
