@@ -14,9 +14,10 @@
 - Visual Studio for C# / .NET Core / C++
 - Visual Studio Code
 - .NET Core
-- Azure PaaS
-- Azure IoT
+- Azure IaaS, PaaS
+- Azure IoT, IoT Edge
 - Azure Sphere
+- Machine Learning and AI
 - Network and Data Communications
 
 ## Languages
