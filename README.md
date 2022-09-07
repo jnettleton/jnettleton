@@ -19,6 +19,7 @@
 - Azure Sphere
 - Machine Learning and AI
 - Network and Data Communications
+- AWS, Linux, Rust, Groovy, Kotlin, Scala
 
 ## Languages
 
@@ -31,6 +32,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/arduino/arduino.png?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/rust/rust.png?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/linux/linux.png?raw=true"></code>
 
 ## Certifications
 
