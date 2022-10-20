@@ -11,6 +11,7 @@
 ## Technology Preferences / Interests
 
 - 💻 Windows 10
+- Windows Subsystem for Linux (Ubuntu 22.04)
 - Visual Studio for C# / .NET Core / C++
 - Visual Studio Code
 - .NET Core
