@@ -20,7 +20,8 @@
 - Azure Sphere
 - Machine Learning and AI
 - Network and Data Communications
-- AWS, Linux, <a href="https://github.com/topics/rust">Rust</a>, Groovy, Kotlin, Scala
+- Ubuntu, Raspberry Pi
+- AWS, <a href="https://github.com/topics/rust">Rust</a>, Groovy, Kotlin, Scala
 
 ## Languages
 
