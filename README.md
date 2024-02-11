@@ -21,7 +21,7 @@
 - Machine Learning and AI
 - Network and Data Communications
 - Ubuntu, Raspberry Pi
-- AWS, <a href="https://github.com/topics/rust">Rust</a>, Groovy, Kotlin, Scala
+- AWS, <a href="https://github.com/topics/rust">Rust</a>, Groovy, Kotlin
 
 ## Languages
 
