@@ -1,58 +1,28 @@
-# More about jnettleton (Jerry Nettleton)
+## Jerry Nettleton
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jnettleton.jnettleton)
+Systems engineer working in **Rust**, **networking** and **IoT/embedded**. Minnesota.
 
-## Social Links
+### Recent work
+- **SmartThings, Staff Software Engineer (2021–2026)**
+  - Designed and built the async Rust log shipper in the hub firmware: jittered backoff,
+    severity-aware offline buffering, a remote per-hub log level, and batched upload.
+    In production since January 2024, in the common hub codebase.
+  - Java/Kotlin microservices on AWS across five regions, with Docker and Terraform.
+- **Earlier:** C#/.NET since 2002, including consulting at Avanade.
 
-- 🦅 [Twitter](https://twitter.com/dotnett)
-- 🖥 [GitHub](https://github.com/jnettleton)
-- 👔 [LinkedIn](https://linkedin.com/in/jnettleton)
+### Currently building
+- **An async Rust proxy.** Work in progress; the link and design notes go here once it's public.
 
-## Technology Preferences / Interests
+### Projects
+- [pi-workspace-rust](https://github.com/jnettleton/pi-workspace-rust): Rust driver for an SPI TFT display on a Raspberry Pi (`rppal`).
+- [pi-workspace-cpp](https://github.com/jnettleton/pi-workspace-cpp): C++ on a Raspberry Pi with CMake presets, an aarch64 cross-toolchain and a Docker-based cross-build.
 
-- 💻 Windows 11
-- Windows Subsystem for Linux (Ubuntu 22.04)
-- Visual Studio for C# / .NET Core / C++
-- Visual Studio Code
-- .NET Core
-- Azure IaaS, PaaS
-- Azure IoT, IoT Edge
-- Azure Sphere
-- Machine Learning and AI
-- Network and Data Communications
-- Ubuntu, Raspberry Pi
-- AWS, <a href="https://github.com/topics/rust">Rust</a>, Groovy, Kotlin
+### Open source
+- [Azure/azure-relay-bridge#32](https://github.com/Azure/azure-relay-bridge/pull/32) (merged, 2024):
+  `ConfigureAwait(false)` across the relay's TCP/UDP forwarders, after hitting a deadlock
+  under load testing; plus deterministic disposal in the bridge tests.
 
-## Languages
-
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png?raw=true"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/arduino/arduino.png?raw=true"></code>
-<a href="https://github.com/rust-lang"><img height="20" src="https://github.com/github/explore/blob/main/topics/rust/rust.png?raw=true">Rust</a>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/linux/linux.png?raw=true"></code>
-
-## Certifications
-
-- Microsoft Certified: Azure Developer Associate
-- Microsoft Certified: Azure IoT Developer Specialty
-- Microsoft Certified: Azure Fundamentals
-- MCSD.NET, MCAD.NET
-- AWS Certified: Solutions Architect Associate
-- Professional Scrum Master™ I (PSM I)
-
-## Azure Services
-
-- [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
-- [Azure Relay](https://docs.microsoft.com/en-us/azure/azure-relay/)
-- [Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/)
-- [Cosmos DB](https://azure.microsoft.com/en-us/services/cosmos-db/)
-- [Azure SQL](https://azure.microsoft.com/en-us/services/azure-sql/)
-- [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/)
+### Contact
+[LinkedIn](https://www.linkedin.com/in/jnettleton)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jnettleton&count_private=true&show_icons=true&include_all_commits=true&theme=gotham)
